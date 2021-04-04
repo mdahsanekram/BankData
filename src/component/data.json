@@ -1,0 +1,27 @@
+[
+  {
+    "Department_Name": "Department 1",
+    "Sales": 1000,
+    "Percentage": "7%"
+  },
+  {
+    "Department_Name": "Department 2",
+    "Sales": 2000,
+    "Percentage": "13%"
+  },
+  {
+    "Department_Name": "Department 3",
+    "Sales": 3000,
+    "Percentage": "20%"
+  },
+  {
+    "Department_Name": "Department 4",
+    "Sales": 4000,
+    "Percentage": "27%"
+  },
+  {
+    "Department_Name": "Department 5",
+    "Sales": 5000,
+    "Percentage": "33%"
+  }
+]
